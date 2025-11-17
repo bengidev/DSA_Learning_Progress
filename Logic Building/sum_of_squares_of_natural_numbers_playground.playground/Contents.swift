@@ -60,3 +60,5 @@ public class Gfg: AnyObject {
 // Drive code
 let result = Gfg.calculateSumSquaresOfNaturalNumbers(number: 3, type: .induction)
 print("The sum of squares of first n natural numbers: \(result)")
+
+// The sum of squares of first n natural numbers: 14

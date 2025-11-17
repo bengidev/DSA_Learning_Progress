@@ -44,3 +44,4 @@ public class Gfg: AnyObject {
 let result = Gfg.calculateSumOfNaturalNumbers(n: 11, type: .induction)
 print("The result of sum of natural number is: \(result)")
 
+// The result of sum of natural number is: 66

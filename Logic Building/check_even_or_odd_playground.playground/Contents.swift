@@ -26,3 +26,4 @@ public class Gfg: AnyObject {
 let result = Gfg.isEven(11)
 print("The result is: \(result)")
 
+// The result is: false
